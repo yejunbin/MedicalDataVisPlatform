@@ -1,4 +1,4 @@
-# MedicalDataVisPlatform
+# Medical Data Visualization Platform
 Medcial Data Analysis and Visualization based on R Shiny. Data used in the platform include medical record home page, laboratory inforamtion system, physican's orders and so on. 
 
 ##Dashboard
@@ -17,7 +17,7 @@ All diseases are classified by ICD-10 trees. The diseases could be analysed from
 ![image](https://github.com/yejunbin/MedicalDataVisPlatform/raw/master/PNG/3.png)
 
 ###Disease Network Analysis
-In the network, the edges are computer by the frequences of cooccurance between diseases. 
+In the network, the edges are computed by the frequences of cooccurance between diseases. 
 
 ![image](https://github.com/yejunbin/MedicalDataVisPlatform/raw/master/PNG/4.png)
 
@@ -32,7 +32,7 @@ Events illustrating through timeline help to understand the patient.
 
 ![image](https://github.com/yejunbin/MedicalDataVisPlatform/raw/master/PNG/6.png)
 
-###Laboratory Data Analyis
+###Laboratory Data Analysis
 
 ![image](https://github.com/yejunbin/MedicalDataVisPlatform/raw/master/PNG/7.png)
 
